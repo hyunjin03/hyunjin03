@@ -35,7 +35,7 @@
 
 ## 배우고 있는 언어 또는 기술..
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PYTHON](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white) 
 
   <hr>
   
